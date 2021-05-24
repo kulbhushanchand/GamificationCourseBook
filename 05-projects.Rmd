@@ -1,0 +1,35 @@
+# Projects
+
+## Promoting Road Safety
+
+Helm to Safety
+
+
+
+
+## Environment Conservation
+
+Tree plantation drive at NITJ.
+
+
+## Managing Food Waste
+
+The Pursuit of Zero Food Waste: A Gamified Approach Promoting Avoidance of Dormitory Mess Food Wastage in Educational Institutions [@jain_pursuit_2019].
+
+**Abstract** - Games are ordered activities, generally undertaken for recreation. The design elements of these games are being used by people all around the planet to make this world a better place. The opportunities for gamification are being discussed in this chapter along with the use of a decision-making method as both have been applied to the study using a local running mobile application as platform for encouraging students enrolled in various educational institutions to promote avoidance of mess food wastage and in gaining confidence to integrate to use this approach to fight the cause of this global malady in their everyday life. The overarching issue of student mentality about food wastage is being discussed along with how to merge gamification with digital technology in this aspect and its participatory design. This provides the background for addressing points of using a gameful system to foster empowerment and connection among the students of NIT Jalandhar where this case was studied and the proposed approach was implemented.
+
+
+
+
+## Enhancing Research
+
+Pursuit of Research: A Gamified Approach Promoting Research Engagement Among Undergraduate Students [@mukherjee_pursuit_2019].
+
+**Abstract** - Research and development are important for the sustenance of any modern economy. Hence, in any society it is important to have a strong supply of scientists and engineers. From an Indian context, it is observed, however, that very few engineers choose to pursue research as their primary domain of interest. This chapter tries to identify from an institutional perspective on why engineers repeatedly shun their core branch subjects to pursue something else. The study highlights the mental framework of an engineering student and how the environment can be molded to invoke the interest of the student towards research and development. A gamified approach to solving this problem is proposed. The entire problem is fit into a gamification framework called Octalysis to identify the core motivators for engaging students in research. Finally, the chapter proposes reforms that can be adopted in order to create a holistic environment where students can participate freely and engage positively in cutting-edge projects.
+
+
+## Promoting Tourism
+
+Enhancing Tourism and Cultural Experience Through Gamification [@setia_enhancing_2019].
+
+**Abstract** - We all travel to different historical places but rarely notice the cultural significance of the place: the history behind the various things and locations. The primary aim of this chapter is to devise and develop means to enhance tourism and provide culturally important knowledge to people. Moreover, internet is booming, and the number of smartphones is increasing day by day. The same is happening in many developing countries. Therefore, in this chapter, the authors propose a criterion that uses technology to promote historical significance and enhances tourism industry as well. The proposed app uses the concept of gamification that acts as a platform to fuel the process of branding in a manner that engages the tourists and provide them with an experience that can make them feel more connected to the tourism destinations.
