@@ -23,6 +23,4 @@ bill-and-melinda-gates-vaccination-challenge
 projects
 promoting-road-safety
 environment-conservation
-managing-food-waste
-enhancing-research
-promoting-tourism
+publications
